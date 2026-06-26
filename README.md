@@ -1,2 +1,1 @@
-# javascript1
-solving and doing project on javascript
+# javascript doing project on javascript
